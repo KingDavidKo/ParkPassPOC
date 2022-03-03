@@ -1,6 +1,6 @@
 # ParkPassPOC
 
-This program is a proof of concept that uses Django for backend (Python), and React.js for the front end. The database used is SQLLite, but the project can be easily adjusted to any other database, like Oracle, SQL Server, etc.
+This program is a proof of concept that uses Django for backend (Python), and React.js for the front end, built in a virtual environment. The database used is SQLLite, but the project can be easily adjusted to any other database, like Oracle, SQL Server, etc.
 
 The purpose of the program is to recreate a booking program, where companies can book sessions for a park.
 
